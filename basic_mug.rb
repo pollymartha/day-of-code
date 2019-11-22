@@ -1,3 +1,4 @@
+# Hi Polly, nice work!
 class BasicMug
   def fill_with(beverage: :coffee)
     @beverage = beverage
